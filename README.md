@@ -1,4 +1,4 @@
-# UART-CRC
+# Advanced UART Transmitter with CRC Error Detection
 ● Sensor data processing and transmission via UART. <br>
 ● Enhanced reliability with CRC error detection. <br>
 ● Dynamic baud rate selection and flow control implementation.  <br>
